@@ -1,0 +1,19 @@
+{
+  "name": "swaptags",
+  "version": "0.1.0",
+  "description": "Util for swapping one set of script <tags> out for another.",
+  "main": "swaptags.js",
+  "scripts": {
+    "test": "node swaptags.js index.html prodreplacements.json dist/index.html"
+  },
+  "repository": "",
+  "keywords": [
+    "swap",
+    "tags",
+    "build",
+    "tool",
+    "util"
+  ],
+  "author": "Jim Kang",
+  "license": "MIT"
+}
