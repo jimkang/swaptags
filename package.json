@@ -1,6 +1,6 @@
 {
   "name": "swaptags",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Util for swapping one set of script <tags> out for another.",
   "main": "swaptags.js",
   "scripts": {
